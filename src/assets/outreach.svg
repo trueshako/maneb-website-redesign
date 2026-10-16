@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650">
+  <rect width="1200" height="650" fill="#f3eee2"/>
+  <circle cx="970" cy="120" r="75" fill="#e6d5a9"/>
+  <path d="M0 410 Q250 350 500 420 T1200 380 V650 H0Z" fill="#d8dfc5"/>
+  <g stroke="#28584a" stroke-width="8" stroke-linecap="round">
+    <path d="M330 300 V420 M600 270 V420 M870 300 V420"/>
+  </g>
+  <g fill="#c78d65">
+    <circle cx="330" cy="255" r="45"/>
+    <circle cx="600" cy="225" r="45"/>
+    <circle cx="870" cy="255" r="45"/>
+  </g>
+  <g fill="#28584a">
+    <path d="M270 325 Q330 290 390 325 L410 445 H250Z"/>
+    <path d="M540 295 Q600 260 660 295 L680 445 H520Z"/>
+    <path d="M810 325 Q870 290 930 325 L950 445 H790Z"/>
+  </g>
+  <text x="600" y="520" text-anchor="middle" font-family="Arial,sans-serif" font-size="29" font-weight="bold" fill="#28584a">COMMUNITY OUTREACH</text>
+  <text x="600" y="565" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#64725f">Illustrative placeholder</text>
+</svg>
